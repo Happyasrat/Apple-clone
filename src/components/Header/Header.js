@@ -17,7 +17,7 @@ export default function Header() {
 			    <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target=".navbar-collapse">
 			        ☰
 			    </button>
-			    <a className="navbar-brand mx-auto" href="#"><img src={logo}/></a>
+			    <a className="navbar-brand mx-auto" href="#"><img src={logo} alt="logo" /></a>
 
 			    <div className="navbar-collapse collapse">
 			        <ul className="navbar-nav nav-justified w-100 nav-fill">
@@ -29,7 +29,7 @@ export default function Header() {
 						<li className="nav-item"><a className="nav-link js-scroll-trigger" href="#">Music</a></li>
 						<li className="nav-item"><a className="nav-link js-scroll-trigger" href="#">Support</a></li>
 							  <li className="nav-item" ><a className="nav-link js-scroll-trigger" href="/search/"><img src={search }/></a></li>
-							  <li className="nav-item"><a className="nav-link js-scroll-trigger" href="/cart/"><img src={cart }/></a></li>
+							  <li className="nav-item"><a className="nav-link js-scroll-trigger" href="/cart/"><img src={cart } alt="cart"/></a></li>
 			        </ul>
 			    </div>
 			</nav>
