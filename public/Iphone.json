@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+{
+  "product": [
+    {
+      "product_id": 1,
+      "description_id": 1,
+      "product_url": "iPhone 14 and iPhone 14 Plus",
+      "product_img": "https://www.apple.com/v/iphone-14/d/images/overview/hero/hero_all_colors__dvlwc1u257qu_small.jpg",
+      "product_link": "https://www.apple.com/shop/buy-iphone/iphone-14 plus",
+      "product_name": "iPhone 14 and iPhone 14 Plus",
+      "product_brief_description": "Wonderfull.",
+      "starting_price": "$399",
+      "price_range": "From $33.29/mo. for 24 mo. or $799 before trade‑in.*",
+      "product_description": "iPhone 14 can detect a severe car crash,then call 911 and notify your emergency contacts."
+    },
+
+    {
+      "product_id": 2,
+      "description_id": 2,
+      "product_url": "iPhone 14 Pro Max",
+      "product_img": "https://www.apple.com/v/iphone-14-pro/c/images/overview/hero/hero_iphone_14_pro__e0act2165xqq_small.jpg",
+      "product_link": "https://www.apple.com/shop/buy-iphone/iphone-14",
+      "product_name": "iPhone 14PRO MAX",
+      "product_brief_description": "Pro.Beyond.",
+      "starting_price": "$449",
+      "price_range": "From $41.62/mo. for 24 mo. or $999 before trade-in.*",
+      "product_description": "A magical new way to interact with iPhone. Groundbreaking safety features designed to save lives. An innovative 48MP camera for mind-blowing detail. All powered by the ultimate smartphone chip."
+    },
+
+    {
+      "product_id": 3,
+      "description_id": 3,
+      "product_url": "iphone14Plus",
+      "product_img": "https://www.apple.com/v/iphone-14/d/images/overview/design/gallery_xdr_red__upy2farqt5ei_small.jpg",
+      "product_link": "https://www.apple.com/shop/buy-iphone/iphone-14",
+      "product_name": "iPhone 14 Plus",
+      "product_brief_description": "Epic Pro‑level photos and videos",
+      "starting_price": "$679",
+      "price_range": "From $599 or $24.95/mo.per month for 24 mo.months before trade‑inFootnote*",
+
+      "product_description": "iOS 16 lets you customize your Lock Screen in fun new ways. Layer a photo to make it pop. Track your Activity rings. And see live updates from your favorite apps."
+    }
+  ]
+}

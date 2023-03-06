@@ -1,5 +1,6 @@
 import React from 'react'
 import Icon16 from '../../commonResource/images/icons/16.png'
+import "./FooterCollapse"
  
 
 
@@ -55,13 +56,13 @@ function Footer() {
               <h3>Shop and Learn</h3>
               <ul>
                 <li>
-                  <a href="#">Mac</a>
+                  <a href="/Mac">Mac</a>
                 </li>
                 <li>
-                  <a href="#">iPad</a>
+                  <a href="/ipad">iPad</a>
                 </li>
                 <li>
-                  <a href="#">iPhone</a>
+                  <a href="/iphone">iPhone</a>
                 </li>
                 <li>
                   <a href="#">Watch</a>

@@ -1,8 +1,4 @@
-
-
-
-
-export default FooterCollapse
+import $ from "jquery";
 
 $(document).ready(function () {
   if ($(window).width() <= 768) {
@@ -22,5 +18,5 @@ $(document).ready(function () {
   $(document).on("click", ".someClass h3 ", function () {
     $(this).next("ul").slideToggle();
     $(this).toggleClass("expanded");
-  })
-  });
+  });
+});

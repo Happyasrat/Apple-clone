@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "product_id": 1,
+      "product_url": "Mac Book Pro",
+      "product_name": "MacBookPro",
+      "description_id": 1,
+      "product_brief_description": "Mover. Maker. Boundary breaker.",
+      "product_description": "Supercharged by M2 Pro or M2 Max, MacBook Pro takes its power and efficiency further than ever. It delivers exceptional performance whether it’s plugged in or not, and now has even longer battery life. Combined with a stunning Liquid Retina XDR display and all the ports you need — this is a pro laptop without equal.",
+      "product_img": "https://www.apple.com/v/macbook-pro-14-and-16/d/images/overview/camera/spatial_audio__dipr8iji32uu_small.jpg",
+      "product_link": "https://www.apple.com/shop/buy-MacBookPro/Mac-Book-Pro",
+      "price_id": 1,
+      "starting_price": "$1299",
+      "price_range": "From $166.58/mo. for 12 mo. or $1999.*"
+    },
+    {
+      "product_id": 2,
+      "product_url": "Mac Book Air",
+      "product_name": "MacBookAir",
+      "description_id": 1,
+      "product_brief_description": "Midnight to Starligh Four stellar finishes.",
+      "product_description": "Make your best impression on video calls with the 1080p FaceTime HD camera and three‑mic array. Surround yourself with an expansive soundstage, compliments of the four‑speaker sound system with Spatial Audio. MacBook Air was designed to thrill the senses.",
+      "product_img": "https://www.apple.com/v/macbook-air-m2/d/images/overview/design/finish_silver__fl868a6lcs2u_medium.jpg",
+      "product_link": "https://www.apple.com/shop/buy-MacBookPro/Mac-Book-Pro",
+      "price_id": 1,
+      "starting_price": "$999",
+      "price_range": "From $99.91/mo. for 12 mo. or $1199.*"
+    }
+   
+
+  ]
+}

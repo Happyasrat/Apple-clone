@@ -1,0 +1,30 @@
+.center {
+    text-align: center;
+   
+    
+}
+
+@media (min-width:320px) {
+  .latestVideo {
+max-width: 100%;
+display:inline-flex;
+
+}
+}
+
+
+@media (min-width:570px) {
+  .latestVideo{
+    
+max-width: 50%;
+
+}
+}
+
+@media (min-width:950px) {
+  .latestVideo{
+    
+max-width: 25%;
+
+}
+}
